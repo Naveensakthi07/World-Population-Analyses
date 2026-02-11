@@ -2,6 +2,7 @@
 📌 Project Overview
 
 This project analyzes global population data to identify demographic trends, growth patterns, and future projections using Python and Power BI.
+<img width="1387" height="803" alt="Dashboard" src="https://github.com/user-attachments/assets/a6e9206d-184b-4542-ba38-ca17b521679f" />
 
 🎯 Objectives
 
